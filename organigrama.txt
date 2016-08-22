@@ -1,0 +1,13 @@
+Presidente
+	Gerente General
+		Gerente Mercadeo
+			Vendedor 1
+			Vendedor 2
+				Chiclero
+			Vendedor 3
+		Ing. Industrial
+			Gerente Aseo
+				Aseador
+				Conserje	
+	Hija del Presidente
+		Tesoreria
